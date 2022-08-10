@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZacharyStephen
 - 👀 I’m interested in networking and software development
-- 🌱 I’m currently learning CCNA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
